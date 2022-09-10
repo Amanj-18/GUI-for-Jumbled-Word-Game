@@ -19,3 +19,8 @@ Preview  :
 ![image](https://user-images.githubusercontent.com/89749348/189471084-e501904a-69a8-450f-b11d-bab9ffc00694.png)
 ![image](https://user-images.githubusercontent.com/89749348/189471095-ea836e96-831c-4d02-ba3e-fc1447286788.png)
 ![image](https://user-images.githubusercontent.com/89749348/189471102-b282c7c2-c740-4b03-b738-ed82b3a678a0.png)
+
+Contributors :
+
+https://github.com/Amanj-18
+https://github.com/janup9967
