@@ -2,7 +2,7 @@ import tkinter
 from tkinter import *
 import random
 from tkinter import messagebox
-# you can add more words as per your requirement
+#here we are using few words just to show the game you can add more words as per your requirement
 answers = [
     "python",
     "java",
